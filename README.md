@@ -1,2 +1,10 @@
-# meigames-pong-models
-The repository for developing and training AI models for meigames-pong
+# Pong AI player models
+
+## Ideas
+
+* kNN
+* Offline RL
+
+## Open questions
+
+* How to run kNN in Browser?
