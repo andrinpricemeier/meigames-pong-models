@@ -5,7 +5,7 @@
 * Analyze learning curve / training curve for bias/variance
 * Collect more data
 * Perhaps try a sequential model (RNN, Transformer, Attention, TCN)
-* Try out AutoML for finding a good enough model
+* Try out AutoML for finding a good enough model (auto-sklearn and VSCode dev container)
 
 ## Performance (validation set, not generalized error)
 
