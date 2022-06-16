@@ -1,5 +1,11 @@
 # Pong AI player models
 
+## Model ideas
+
+* Analyze learning curve / training curve for bias/variance
+* Collect more data
+* Perhaps try a sequential model (RNN, Transformer, Attention, TCN)
+
 ## Performance (validation set, not generalized error)
 
 Accuracy Dummy classifier: 0.32
