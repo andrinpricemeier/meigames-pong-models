@@ -5,14 +5,13 @@
 * Analyze learning curve / training curve for bias/variance
 * Collect more data
 * Perhaps try a sequential model (RNN, Transformer, Attention, TCN)
+* Try out AutoML for finding a good enough model
 
 ## Performance (validation set, not generalized error)
 
-Accuracy Dummy classifier: 0.32
-
-Accuracy kNN classifier: 0.78
-
-Accuracy Random Forest classifier: 0.81
+* Accuracy Dummy classifier: 0.32
+* Accuracy kNN classifier: 0.78
+* Accuracy Random Forest classifier: 0.81
 
 ## Ideas
 
